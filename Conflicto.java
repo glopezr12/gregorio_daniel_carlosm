@@ -3,7 +3,10 @@ public class Conflicto {
     public static void main(String[] args) {
         metodoDaniel();
         metodoGregorio();
+<<<<<<< HEAD
         metodoCarlosM();
+=======
+>>>>>>> dee2606e1b09ab489347eb8185b831eb8aaea51f
 
     }
 
